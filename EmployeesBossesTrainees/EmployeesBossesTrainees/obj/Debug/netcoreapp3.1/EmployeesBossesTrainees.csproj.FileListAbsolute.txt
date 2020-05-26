@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.exe
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.deps.json
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.runtimeconfig.json
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.runtimeconfig.dev.json
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.dll
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\bin\Debug\netcoreapp3.1\EmployeesBossesTrainees.pdb
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.AssemblyInfo.cs
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.dll
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.pdb
+C:\Users\user\Desktop\Cursos\C#\EmployeesBossesTrainees\EmployeesBossesTrainees\obj\Debug\netcoreapp3.1\EmployeesBossesTrainees.genruntimeconfig.cache
