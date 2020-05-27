@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XFsT/BApoIlMMvaF3BUEo2gmFf59L0ZAm11XeQOjgqd3oxp1N88kirqwajDIYPYJpYD1m5JSwUdfL7+JKv2npQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Cursos\\C#\\ReadWriteIntoTextFile\\ReadWriteIntoTextFile\\ReadWriteIntoTextFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

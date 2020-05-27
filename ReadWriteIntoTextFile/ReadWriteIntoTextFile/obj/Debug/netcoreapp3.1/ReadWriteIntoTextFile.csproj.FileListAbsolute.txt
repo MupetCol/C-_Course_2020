@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.AssemblyInfo.cs
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.exe
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.deps.json
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.runtimeconfig.json
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.runtimeconfig.dev.json
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.dll
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\bin\Debug\netcoreapp3.1\ReadWriteIntoTextFile.pdb
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.dll
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.pdb
+C:\Users\user\Desktop\Cursos\C#\ReadWriteIntoTextFile\ReadWriteIntoTextFile\obj\Debug\netcoreapp3.1\ReadWriteIntoTextFile.genruntimeconfig.cache
