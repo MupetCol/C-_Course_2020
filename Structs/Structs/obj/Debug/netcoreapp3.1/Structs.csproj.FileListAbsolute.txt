@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.exe
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.deps.json
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.json
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.runtimeconfig.dev.json
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.dll
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\bin\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.AssemblyInfo.cs
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.dll
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.pdb
+C:\Users\user\Desktop\Cursos\C#\Structs\Structs\obj\Debug\netcoreapp3.1\Structs.genruntimeconfig.cache
