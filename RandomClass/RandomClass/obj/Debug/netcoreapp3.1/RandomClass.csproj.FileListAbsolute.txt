@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.exe
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.deps.json
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.json
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.runtimeconfig.dev.json
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\bin\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.AssemblyInfo.cs
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.dll
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.pdb
+C:\Users\user\Desktop\Cursos\C#\Projects\RandomClass\RandomClass\obj\Debug\netcoreapp3.1\RandomClass.genruntimeconfig.cache
